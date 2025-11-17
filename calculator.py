@@ -1,3 +1,6 @@
+# https://github.com/diogotibirica/lab11--DT---DT-.git
+# Partner 1: Diogo Tibirica
+# Partner 2: Diogo Tibirica
 import math
 
 def square_root(a):
